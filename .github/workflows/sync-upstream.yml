@@ -1,5 +1,5 @@
 
-name: Sync CADCraft from Upstream
+name: Sync from Upstream
 
 on:
   schedule:
